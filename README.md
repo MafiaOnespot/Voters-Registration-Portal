@@ -1,5 +1,5 @@
 # Voters-Registration-Portal
-The "Voters Registration Portal" is a digital platform designed to streamline the voter registration process and enhance the accessibility and efficiency of voter registration for eligible citizens. Here's a project description:
+The "Voters Registration Portal" is a digital platform designed to streamline the voter registration process and enhance the accessibility and efficiency of voter registration for eligible citizens.
 
 **Project Name:** Voters Registration Portal
 
